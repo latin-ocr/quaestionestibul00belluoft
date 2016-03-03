@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionestibul00belluoft_0029.png"; bbox 0 0 2112 2634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 573 1046 1371 1163">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 573 1046 1371 1163">
+     <span class='ocr_line' id='line_1_1' title="bbox 697 1046 1243 1085; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 697 1051 835 1085; x_wconf 69' lang='lat' dir='ltr'>PLEASE</span> <span class='ocrx_word' id='word_1_2' title='bbox 863 1050 926 1084; x_wconf 82' lang='lat'>00</span> <span class='ocrx_word' id='word_1_3' title='bbox 954 1049 1044 1083; x_wconf 87' lang='grc' dir='ltr'>ΝΟΤ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1072 1046 1243 1080; x_wconf 63' lang='lat' dir='ltr'>Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 573 1119 1371 1163; baseline -0.015 0"><span class='ocrx_word' id='word_1_5' title='bbox 573 1128 709 1163; x_wconf 71' lang='lat' dir='ltr'><strong>CARDS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 734 1127 793 1161; x_wconf 71' lang='grc' dir='ltr'>ΟΒ</span> <span class='ocrx_word' id='word_1_7' title='bbox 823 1125 924 1159; x_wconf 79' lang='grc' dir='ltr'>5ΗΡ5</span> <span class='ocrx_word' id='word_1_8' title='bbox 953 1124 1071 1157; x_wconf 68' lang='grc' dir='ltr'>ΡΒΟΜ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1097 1121 1183 1155; x_wconf 69' lang='lat' dir='ltr'>wls</span> <span class='ocrx_word' id='word_1_10' title='bbox 1211 1119 1371 1153; x_wconf 78' lang='grc' dir='ltr'>ΡΟΕΚΕΤ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 604 1262 1342 1306">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 604 1262 1342 1306">
+     <span class='ocr_line' id='line_1_3' title="bbox 604 1262 1342 1306; baseline -0.016 0"><span class='ocrx_word' id='word_1_11' title='bbox 604 1271 834 1306; x_wconf 66' lang='grc' dir='ltr'>υΝΝΕΕδΙΤΥ</span> <span class='ocrx_word' id='word_1_12' title='bbox 861 1269 917 1302; x_wconf 74' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_13' title='bbox 944 1265 1157 1301; x_wconf 70' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_14' title='bbox 1185 1262 1342 1297; x_wconf 68' lang='lat' dir='ltr'>UBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 928 1572 1219 1609">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 928 1572 1219 1609">
+     <span class='ocr_line' id='line_1_4' title="bbox 928 1572 1219 1609; baseline -0.007 -7"><span class='ocrx_word' id='word_1_15' title='bbox 928 1582 936 1592; x_wconf 62' lang='lat' dir='ltr'><strong><em>s</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 983 1595 991 1609; x_wconf 91' lang='lat'><strong><em>‚</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1031 1572 1219 1602; x_wconf 32' lang='lat' dir='ltr'>‘rs-qr&#39;sscu·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2044 0 2112 2628">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2044 0 2112 2628">
+     <span class='ocr_line' id='line_1_5' title="bbox 2044 0 2112 2628; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 2044 0 2112 2628; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
